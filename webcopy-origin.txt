@@ -1,0 +1,120 @@
+Uri: https://mc.yandex.ru/watch/12154165
+File Name: C:\Downloaded Web Sites\medportal.ru\watch\12154165
+Content Type: image/gif
+
+Uri: https://medportal.ru/assets/application-89cf9fd81d621e82349e6916768e0ef36da10aac9833b9d401dc9870eafd83d9.css
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\application-89cf9fd81d621e82349e6916768e0ef36da10aac9833b9d401dc9870eafd83d9.css
+Content Type: text/css
+
+Uri: https://medportal.ru/assets/application-bfa8ec5822f7ac559a9b37ab2a25c4d3ee11fa5f7c0fb842458fb1dc5454b9b9.js
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\application-bfa8ec5822f7ac559a9b37ab2a25c4d3ee11fa5f7c0fb842458fb1dc5454b9b9.js
+Content Type: application/javascript
+
+Uri: https://medportal.ru/assets/footer/age_restriction@2x-b90fda5f0b7f169909f260634b84334efbb07b2b43ef3d8ba9506ac2f27f7ef3.png
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\footer\age_restriction@2x-b90fda5f0b7f169909f260634b84334efbb07b2b43ef3d8ba9506ac2f27f7ef3.png
+Content Type: image/png
+
+Uri: https://medportal.ru/assets/footer/facebook@2x-49f9b97395fa2d4f40ae3133372a8da8b7f68371c13cd1af6361097653ebc0b4.png
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\footer\facebook@2x-49f9b97395fa2d4f40ae3133372a8da8b7f68371c13cd1af6361097653ebc0b4.png
+Content Type: image/png
+
+Uri: https://medportal.ru/assets/footer/ok@2x-8ac217b3dd8f82ae52946905421bb23565047b1a29fbda7e53b115e66b16b10f.png
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\footer\ok@2x-8ac217b3dd8f82ae52946905421bb23565047b1a29fbda7e53b115e66b16b10f.png
+Content Type: image/png
+
+Uri: https://medportal.ru/assets/footer/twitter@2x-afe20bc13be1cb5ea13a3a18feb145023c7f57ba844a603a014213fa1c0df7ea.png
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\footer\twitter@2x-afe20bc13be1cb5ea13a3a18feb145023c7f57ba844a603a014213fa1c0df7ea.png
+Content Type: image/png
+
+Uri: https://medportal.ru/assets/footer/vk@2x-2a184f98708742a6cfae9656f15ddbaf294c24eb88ccd6fe52140235d88e9544.png
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\footer\vk@2x-2a184f98708742a6cfae9656f15ddbaf294c24eb88ccd6fe52140235d88e9544.png
+Content Type: image/png
+
+Uri: https://medportal.ru/assets/logo-medportal-eac2a4add0dc58a1f34510f03657f2204b208ca6b06e9a1eb3606444bea31ab4.svg
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\logo-medportal-eac2a4add0dc58a1f34510f03657f2204b208ca6b06e9a1eb3606444bea31ab4.svg
+Content Type: image/svg+xml
+
+Uri: https://medportal.ru/assets/medportal_logo@2x-7e03ea89b244a1829ad2d112010d338cbfa5d493997ea22f277cc9d2b51bfd30.png
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\medportal_logo@2x-7e03ea89b244a1829ad2d112010d338cbfa5d493997ea22f277cc9d2b51bfd30.png
+Content Type: image/png
+
+Uri: https://medportal.ru/assets/news/facebook@2x-49f9b97395fa2d4f40ae3133372a8da8b7f68371c13cd1af6361097653ebc0b4.png
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\news\facebook@2x-49f9b97395fa2d4f40ae3133372a8da8b7f68371c13cd1af6361097653ebc0b4.png
+Content Type: image/png
+
+Uri: https://medportal.ru/assets/news/ok@2x-8ac217b3dd8f82ae52946905421bb23565047b1a29fbda7e53b115e66b16b10f.png
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\news\ok@2x-8ac217b3dd8f82ae52946905421bb23565047b1a29fbda7e53b115e66b16b10f.png
+Content Type: image/png
+
+Uri: https://medportal.ru/assets/news/twitter@2x-4a1a9d926b22f009967f2278b6c7d2277893dbd3372438f8ac1fe6bc8c913c5e.png
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\news\twitter@2x-4a1a9d926b22f009967f2278b6c7d2277893dbd3372438f8ac1fe6bc8c913c5e.png
+Content Type: image/png
+
+Uri: https://medportal.ru/assets/news/vk@2x-bbd43aa96b9d2edf9bfe6ff9852e2e837e2082392d1f4f2d05982ab631ba71f9.png
+File Name: C:\Downloaded Web Sites\medportal.ru\assets\news\vk@2x-bbd43aa96b9d2edf9bfe6ff9852e2e837e2082392d1f4f2d05982ab631ba71f9.png
+Content Type: image/png
+
+Uri: https://medportal.ru/enc/nutrition/vitamine/6/
+File Name: C:\Downloaded Web Sites\medportal.ru\enc\nutrition\vitamine\6\index-1.htm
+Content Type: text/html
+
+Uri: https://medportal.ru/enc/nutrition/vitamine/6/?scroll=true
+File Name: C:\Downloaded Web Sites\medportal.ru\enc\nutrition\vitamine\6\index.htm
+Content Type: text/html
+
+Uri: https://medportal.ru/pictures/article/bd86441f-10a9-4b8a-9c11-a84e248d9e8d/medium.jpg
+File Name: C:\Downloaded Web Sites\medportal.ru\pictures\article\bd86441f-10a9-4b8a-9c11-a84e248d9e8d\medium.jpg
+Content Type: image/jpeg
+
+Uri: https://medportal.ru/pictures/authors/diplomas/197/medium.jpg
+File Name: C:\Downloaded Web Sites\medportal.ru\pictures\authors\diplomas\197\medium.jpg
+Content Type: image/jpeg
+
+Uri: https://medportal.ru/pictures/authors/diplomas/198/medium.jpg
+File Name: C:\Downloaded Web Sites\medportal.ru\pictures\authors\diplomas\198\medium.jpg
+Content Type: image/jpeg
+
+Uri: https://medportal.ru/pictures/authors/diplomas/237/medium.jpg
+File Name: C:\Downloaded Web Sites\medportal.ru\pictures\authors\diplomas\237\medium.jpg
+Content Type: image/jpeg
+
+Uri: https://medportal.ru/pictures/authors/diplomas/264/medium.jpg
+File Name: C:\Downloaded Web Sites\medportal.ru\pictures\authors\diplomas\264\medium.jpg
+Content Type: image/jpeg
+
+Uri: https://medportal.ru/pictures/authors/diplomas/269/medium.jpg
+File Name: C:\Downloaded Web Sites\medportal.ru\pictures\authors\diplomas\269\medium.jpg
+Content Type: image/jpeg
+
+Uri: https://medportal.ru/pictures/authors/diplomas/298/medium.jpg
+File Name: C:\Downloaded Web Sites\medportal.ru\pictures\authors\diplomas\298\medium.jpg
+Content Type: image/jpeg
+
+Uri: https://medportal.ru/pictures/authors/diplomas/44/medium.jpg
+File Name: C:\Downloaded Web Sites\medportal.ru\pictures\authors\diplomas\44\medium.jpg
+Content Type: image/jpeg
+
+Uri: https://medportal.ru/pictures/health_center_article/b249da5b-bad6-4c07-82dc-da84ad77573f/medium.jpg
+File Name: C:\Downloaded Web Sites\medportal.ru\pictures\health_center_article\b249da5b-bad6-4c07-82dc-da84ad77573f\medium.jpg
+Content Type: image/jpeg
+
+Uri: https://s.clickiocdn.com/t/217665/360.js
+File Name: C:\Downloaded Web Sites\medportal.ru\t\217665\360.js
+Content Type: application/javascript
+
+Uri: https://s.luxupcdnc.com/t/common_402.js
+File Name: C:\Downloaded Web Sites\medportal.ru\t\common_402.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=1333300946868670&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\medportal.ru\tr
+Content Type: text/plain
+
+Uri: https://www.tns-counter.ru/V13a****medportal_ru/ru/CP1251/tmsec=medportal_total/
+File Name: C:\Downloaded Web Sites\medportal.ru\V13amedportal_ru\ru\CP1251\tmsec=medportal_total\index.htm
+Content Type: image/gif
+
+Uri: https://yandex.ru/ads/system/header-bidding.js
+File Name: C:\Downloaded Web Sites\medportal.ru\ads\system\header-bidding.js
+Content Type: text/javascript
+
